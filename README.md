@@ -101,6 +101,6 @@ If you use this code or data in your research, please cite it as follows:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  url = {https://github.com/your-username/plantation-lse-global-geolocation}
+  url = {https://github.com/ChandlerLutz/plantation-lse-global-geolocation}
 }
 ```
