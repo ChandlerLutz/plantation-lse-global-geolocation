@@ -1,4 +1,4 @@
-# plantation-lse-global-geolocation
+# Historical Plantation Geolocation
 
 This repository contains an R-based pipeline designed to acquire spatial data and geocode historical plantation and economic data from the **early 20th century**. 
 
