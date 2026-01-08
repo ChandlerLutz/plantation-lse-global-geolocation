@@ -1,6 +1,6 @@
 # Historical Plantation Geolocation
 
-This repository contains an R-based pipeline designed to acquire spatial data and geocode historical plantation and economic data from the **early 20th century**. 
+This repository contains an R-based pipeline designed to acquire spatial data and geocode historical plantation investment and economic data from the **early 20th century**. 
 
 The code handles the translation of colonial and historical place names (e.g., "German East Africa", "British Guiana") into modern equivalents to ensure accurate geocoding via the Google Maps API.
 
